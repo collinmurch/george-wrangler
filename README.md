@@ -3,7 +3,7 @@ A Discord bot specifically made to annoy George.
 
 
 
-A botsettings.json file is required (ommitted due to token and personal privacy).
+A botsettings.json file is required (ommitted due to personal and token privacy).
 
 
 Sample botsettings.json:
