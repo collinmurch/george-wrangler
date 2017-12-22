@@ -12,7 +12,7 @@ Sample botsettings.json:
 
 "client": "",  --client number
 
-"token": "",   --token
+"token": "",   --bot token
 
 "prefix": "",  --used as the activation word before a given command
 
