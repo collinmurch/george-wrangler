@@ -11,7 +11,7 @@ module.exports.run = async (bot, message, args) => {
         if (prison) {
             message.channel.send(`I'm removing ${user}, yuh dig?`);
 
-            for (let i = 0; i < 20; i++) {
+            for (let i = 0; i < 5; i++) {
                 await user.setVoiceChannel(vc.id);
                 await user.setVoiceChannel(prison.id);
             }
