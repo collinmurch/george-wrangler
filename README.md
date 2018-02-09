@@ -3,29 +3,31 @@ A Discord bot specifically made to annoy George.
 
 
 
-A botsettings.json file is required (ommitted due to personal and token privacy).
+A "botsettings.json" file is required (ommitted due to personal and token privacy).
 
 
-Sample botsettings.json:
+*botsettings.json:*
 
 {
 
-"client": "",  --client number
 
-"token": "",   --bot token
+  "client": "discord_client_#",
 
-"prefix": "",  --used as the activation word before a given command
+  "token": "discord_bot_#",
 
-"pic1": "",    --give either location in directory or url
+  "prefix": "bot_activation_word",
 
-"pic2": "",    --^
+  "pic1": "picture_link",
+  
+  "pic2": "picture_link",
 
-"pic3": "",    --^
+  "pic3": "picture_link",
 
-"pic4": "",    --^
+  "pic4": "picture_link",
 
-"pic5": "",    --^
+  "pic5": "picture_link",
 
-"pic6": ""     --^
+  "pic6": "picture_link"
+
 
 }
