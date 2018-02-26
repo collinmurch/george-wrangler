@@ -7,7 +7,7 @@ A "botsettings.json" file is required (ommitted due to personal and token privac
 
 
 *botsettings.json:*
-
+```
 {
 
      "client": "discord_client_#",
@@ -29,3 +29,4 @@ A "botsettings.json" file is required (ommitted due to personal and token privac
      "pic6": "picture_link"
 
 }
+```
